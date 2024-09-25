@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|c:\\projetos\\desafiomttechne\\lancamentos\\fluxodecaixa\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|solutionrelative:fluxodecaixa\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|c:\\projetos\\desafiomttechne\\lancamentos\\fluxodecaixa\\api\\controllers\\lancamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|solutionrelative:fluxodecaixa\\api\\controllers\\lancamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|c:\\projetos\\desafiomttechne\\lancamentos\\fluxodecaixa\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|solutionrelative:fluxodecaixa\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|c:\\projetos\\desafiomttechne\\lancamentos\\fluxodecaixa\\domain\\entities\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|solutionrelative:fluxodecaixa\\domain\\entities\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|c:\\projetos\\desafiomttechne\\lancamentos\\fluxodecaixa\\tests\\services\\consumerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|solutionrelative:fluxodecaixa\\tests\\services\\consumerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|c:\\projetos\\desafiomttechne\\lancamentos\\fluxodecaixa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|solutionrelative:fluxodecaixa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|c:\\projetos\\desafiomttechne\\lancamentos\\fluxodecaixa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|solutionrelative:fluxodecaixa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|c:\\projetos\\desafiomttechne\\lancamentos\\fluxodecaixa\\services\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|solutionrelative:fluxodecaixa\\services\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|c:\\projetos\\desafiomttechne\\lancamentos\\fluxodecaixa\\services\\producerservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|solutionrelative:fluxodecaixa\\services\\producerservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|c:\\projetos\\desafiomttechne\\lancamentos\\fluxodecaixa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|solutionrelative:fluxodecaixa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|c:\\projetos\\desafiomttechne\\lancamentos\\fluxodecaixa\\lancamentos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{12FFCB9D-1AF3-4B29-98DB-0B5D5227046B}|FluxodeCaixa\\Lancamentos.csproj|solutionrelative:fluxodecaixa\\lancamentos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LancamentosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Api\\Controllers\\LancamentosController.cs",
+              "RelativeDocumentMoniker": "FluxodeCaixa\\Api\\Controllers\\LancamentosController.cs",
+              "ToolTip": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Api\\Controllers\\LancamentosController.cs",
+              "RelativeToolTip": "FluxodeCaixa\\Api\\Controllers\\LancamentosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:28:46.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lancamento.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Domain\\Entities\\Lancamento.cs",
+              "RelativeDocumentMoniker": "FluxodeCaixa\\Domain\\Entities\\Lancamento.cs",
+              "ToolTip": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Domain\\Entities\\Lancamento.cs",
+              "RelativeToolTip": "FluxodeCaixa\\Domain\\Entities\\Lancamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:27:23.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FluxodeCaixa\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FluxodeCaixa\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T19:19:15.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lancamentos.http",
+              "DocumentMoniker": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Lancamentos.http",
+              "RelativeDocumentMoniker": "FluxodeCaixa\\Lancamentos.http",
+              "ToolTip": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Lancamentos.http",
+              "RelativeToolTip": "FluxodeCaixa\\Lancamentos.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-24T19:19:07.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FluxodeCaixa\\Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FluxodeCaixa\\Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:19:47.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FluxodeCaixa\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FluxodeCaixa\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:27:43.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Program.cs",
+              "RelativeDocumentMoniker": "FluxodeCaixa\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Program.cs",
+              "RelativeToolTip": "FluxodeCaixa\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:18:58.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\appsettings.json",
+              "RelativeDocumentMoniker": "FluxodeCaixa\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\appsettings.json",
+              "RelativeToolTip": "FluxodeCaixa\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T19:18:49.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsumerServiceTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Tests\\Services\\ConsumerServiceTests.cs",
+              "RelativeDocumentMoniker": "FluxodeCaixa\\Tests\\Services\\ConsumerServiceTests.cs",
+              "ToolTip": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Tests\\Services\\ConsumerServiceTests.cs",
+              "RelativeToolTip": "FluxodeCaixa\\Tests\\Services\\ConsumerServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:54:58.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProducerService.cs.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Services\\ProducerService.cs.cs",
+              "RelativeDocumentMoniker": "FluxodeCaixa\\Services\\ProducerService.cs.cs",
+              "ToolTip": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Services\\ProducerService.cs.cs",
+              "RelativeToolTip": "FluxodeCaixa\\Services\\ProducerService.cs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:20:15.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsumerService.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Services\\ConsumerService.cs",
+              "RelativeDocumentMoniker": "FluxodeCaixa\\Services\\ConsumerService.cs",
+              "ToolTip": "C:\\Projetos\\DesafioMttechne\\Lancamentos\\FluxodeCaixa\\Services\\ConsumerService.cs",
+              "RelativeToolTip": "FluxodeCaixa\\Services\\ConsumerService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:10:50.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
